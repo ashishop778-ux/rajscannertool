@@ -1,0 +1,2 @@
+[console_scripts]
+Rajscantool = rajscantool.main:main
